@@ -120,6 +120,10 @@ g_sections = {
 				info_format = "${info_cpu}"
 			},
 			{
+				label = "gpu",
+				info_format = "${info_gpu}"
+			},
+			{
 				label = "mem",
 				info_format = "${info_mem_used}/${info_mem_total}"
 			},
